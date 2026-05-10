@@ -1,1 +1,0 @@
-# MINI-Application-JEE
